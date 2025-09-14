@@ -6,6 +6,7 @@
 
 .phone-number {
   display: none;
+  
   @include on-tablet {
     display: block;
     position: absolute;
