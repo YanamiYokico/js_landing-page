@@ -9,3 +9,20 @@ The design of this project is based on a Figma file. You can view the design [he
 - BEM
 - NPM
 - HTML5
+# How to run the project
+# Step 1
+```
+git clone https://github.com/YanamiYokico/js_2048-game.git
+```
+# Step 2
+```
+cd js_2048-game
+```
+# Step 3
+```
+npm install
+```
+# Step 4
+```
+npm start
+```
