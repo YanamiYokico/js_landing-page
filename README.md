@@ -12,11 +12,11 @@ The design of this project is based on a Figma file. You can view the design [he
 # How to run the project
 ### Step 1: Clone the repository
 ```
-git clone https://github.com/YanamiYokico/js_2048-game.git
+git clone https://github.com/YanamiYokico/js_landing-page
 ```
 ### Step 2: Navigate into the project folder
 ```
-cd js_2048-game
+cd js_landing-page
 ```
 ### Step 3: Install dependencies
 ```
